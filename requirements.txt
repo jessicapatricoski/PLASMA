@@ -76,8 +76,6 @@ nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.2.1
-neuroCombat==0.2.12
-neuroHarmonize==2.4.5
 nibabel==5.3.2
 notebook==7.4.3
 notebook_shim==0.2.4
